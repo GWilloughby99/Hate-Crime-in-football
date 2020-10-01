@@ -21,7 +21,7 @@ Talking about the figure, founder of [Show Racism the Red Card](https://www.ther
 
 **Why does it matter?**
 
-Overall, football banning orders and arrests have decreased. 
+Overall, football banning orders and arrests have decreased.
 
 The number of new banning orders issued fell by 34% to 360 compared to last year. Also, arrests dropped 21% to 1,089.
 
