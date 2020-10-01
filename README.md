@@ -43,7 +43,7 @@ The first thing I noticed was that there were leading spaces in the first column
 
 Another function I used was **IF**.
 
-After a cleaned the arrests sheet, I created a new column next to the latest figures. I titled it 'improvement from last year?'.
+After I cleaned the arrests sheet, I created a new column next to the latest figures. I titled it 'improvement from last year?'.
 
 I used the following algorithm: =IF(D5<C5,"Reduction","Increase")
 
