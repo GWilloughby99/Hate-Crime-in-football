@@ -37,3 +37,20 @@ Even with the findings, Grebby remains optimistic that the situation is improvin
 **"There has been huge progress over 30/40 years against racism. The Black Lives Matter movement was a massive show of strength. It has given us a huge amount of public support.**
 
 **"We are putting calls out to educate people online and our output of short films has really stepped up. We are doing more on Facebook, Instagram and TikTok. All the things to generate a stronger anti-racism message."**
+
+## Function Tutorial ##
+
+**NB:** The majority of the analysis for this piece was through the sort and filter tools in Excel.
+
+The first thing I noticed was that there were leading spaces in the first column. I used the =(LEFT(TRIM) function to remove those.
+
+Another function I used was **IF**.
+
+After a cleaned the arrests sheet, I created a new column next to the latest figures. I titled it 'improvement from last year?'.
+
+I used the following algorithm: =IF(D5<C5,"Reduction","Increase")
+
+D5 was the 2019/20 figure and C5 was the 2018/19 figure. The algorithm simply translates to if the number of incidents is smaller than last year, then print that as a reduction. If not, print increase.
+
+This function allowed me to see which arrest types had increased or decreased. Straight away, hate crime stood out as an incident type that was getting worse.
+I used my 'working' dataset to just show hate crimes. I then carried out percentage changes.
