@@ -44,6 +44,8 @@ The number of new banning orders issued fell by 34% to 360 compared to last year
 
 However, arrests made for racist and indecent chanting had a significant rise. 
 
+![Hate crime](https://github.com/GWilloughby99/Hate-Crime-in-football/blob/master/Hatecrimes.png)
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/3893202" data-url="https://flo.uri.sh/visualisation/3893202/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Even with the findings, Grebby remains optimistic that the situation is improving:
